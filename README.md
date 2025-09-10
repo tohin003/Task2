@@ -348,22 +348,9 @@ Made with ❤️ for wine enthusiasts and AI lovers
 
 ⭐ Star this repository if you found it helpful! ⭐
 
-🔝 Back to Top
+
 
 </div>
-Simply copy this entire text and save it as README.md in your project folder! 🍷✨
-
-This comprehensive README includes all the professional elements needed for a great GitHub repository:
-
-Badges and professional formatting
-
-Clear installation instructions
-
-API setup guide with direct links
-
-Usage examples and sample queries
-
-Technical architecture overview
 
 Development and deployment guides
 
