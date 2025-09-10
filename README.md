@@ -1,10 +1,5 @@
 🍷 Tohin - Napa Valley Wine Concierge Chatbot
-<div align="center">
-![Streamlit](https://img.shields.io/badge/Streame chatbot for Napa Valley Premium Wines**
 
-Features - Installation - Usage - API Keys - Contributing
-
-</div>
 🌟 Features
 🤖 Intelligent AI Conversations
 Powered by Google Gemini AI for natural language understanding
